@@ -52,7 +52,6 @@ It includes Registration, Login, Ticket Booking, My Tickets, and Logout pages.
 
 ## 👩‍💻 Developed By
 **Name:** G. Pranathi  
-**Roll No:** 24WH1A0584  
-**College:** BVRIT  
+**Roll No:** 24WH1A0584   
 
 ---
