@@ -25,11 +25,6 @@ It includes Registration, Login, Ticket Booking, My Tickets, and Logout pages.
 
 # 📷 Output Screenshots
 
-## 🏠 Home Page
-![Home Page](outputs/home.png)
-
----
-
 ## 📝 Registration Page
 ![Registration Page](outputs/Registration.png)
 
